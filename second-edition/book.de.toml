@@ -1,0 +1,8 @@
+[book]
+title = "The Rust Programming Language"
+author = "Steve Klabnik and Carol Nichols, with Contributions from the Rust Community"
+src = "src/de"  # Select language to build                                             
+
+[build]
+build-dir = "book-de"
+create-missing = false
